@@ -1,3 +1,9 @@
+Changes for v3.2.1 (2023-08-01)
+===============================
+
+Use sphinxext-opengraph Use sphinx-copybutton Add tsp-client dependency
+placeholder Use furo sphinx doc theme
+
 Changes for v3.2.0 (2023-04-12)
 ===============================
 
